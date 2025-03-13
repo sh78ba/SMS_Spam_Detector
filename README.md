@@ -17,15 +17,19 @@ Hyperparameter Tuning: Optimized with GridSearchCV.
 Supports n-grams: Captures bigrams & trigrams to improve accuracy.
 <br>
 <br>
+<br>
 🛠️ Installation & Setup
+<br>
 <br>
 1️⃣ Clone the Repository
 
 git clone https://github.com/sh78ba/SMS_Spam_Detector.git
-cd Spam_Detector
-
+<br>
+cd SMS_Spam_Detector
+<br>
 2️⃣ Create a Virtual Environment (Recommended)
-
+<br>
+<br>
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -51,7 +55,9 @@ python app.py
 🌐 Open in browser: http://127.0.0.1:5000
 <br>
 <br>
+<br>
 📂 Project Structure
+<br>
 <br>
 📁 Spam_Detector
 │── 📁 model                # Model training & processing
@@ -86,7 +92,7 @@ pip install -r requirements.txt
 📊 Model Performance
 <br>
 Metric
-
+<br>
 Score
 
 Accuracy
@@ -106,7 +112,9 @@ F1-Score
 94%
 <br>
 <br>
+<br>
 💡 How It Works
+<br>
 <br>
 User Inputs a Message: Enters text in the web app.
 
