@@ -123,3 +123,10 @@ Text Preprocessing: Removes stopwords, converts to lowercase, and extracts featu
 Model Prediction: The trained Stacking Classifier predicts whether the message is spam.
 
 Result Displayed: The app shows the classification result.
+
+<br>
+<br>
+Output:
+<br>
+
+![Spam Detector](assets/Spam_Output.png)
